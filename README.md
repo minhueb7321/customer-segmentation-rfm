@@ -1,4 +1,4 @@
-# Customer Segment - RFM Analysis
+# Customer Segmentation for E-commerce Platform - RFM Analysis
 
 Using PowerBi to conduct the analyze Customer Segment
 
